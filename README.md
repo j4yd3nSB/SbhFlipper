@@ -16,4 +16,13 @@ Set Up Instructions:
 
 6: MUST be on Forge 1.8.9
 
+Examples:
+
+![image](https://user-images.githubusercontent.com/108372718/177042128-c2c1e65e-85d9-4edf-8bea-2d4fd29a411a.png)
+
+![image](https://user-images.githubusercontent.com/108372718/177042138-23b8b47a-c192-4c20-882c-24f7d58beaf5.png)
+
+![image](https://user-images.githubusercontent.com/108372718/177042153-60e2eb82-0ffd-4d25-a931-1c74717a0803.png)
+
+
 
