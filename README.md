@@ -24,5 +24,9 @@ Examples:
 
 ![image](https://user-images.githubusercontent.com/108372718/177042153-60e2eb82-0ffd-4d25-a931-1c74717a0803.png)
 
+Existing Commands:
 
+/SkyHlogin + (your api key)
+
+/SHCONFIG
 
