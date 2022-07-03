@@ -30,3 +30,5 @@ Existing Commands:
 
 /SHCONFIG
 
+/shdiscord
+
