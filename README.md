@@ -18,7 +18,7 @@ Set Up Instructions:
 
 Examples:
 
-![image](https://user-images.githubusercontent.com/108372718/177042128-c2c1e65e-85d9-4edf-8bea-2d4fd29a411a.png)
+![image](https://user-images.githubusercontent.com/108372718/177042246-efaf1b03-3117-4d31-854c-fcdda3794f7c.png)
 
 ![image](https://user-images.githubusercontent.com/108372718/177042138-23b8b47a-c192-4c20-882c-24f7d58beaf5.png)
 
